@@ -46,7 +46,7 @@ components:
                 quantity:
                   type: integer
                 price:
-                  type: integer #changing type to number
+                  type: string #changing type to number
               required:
                 - id
                 - name
